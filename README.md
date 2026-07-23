@@ -52,4 +52,4 @@ Aliakbar Hoveydapoyr
 
 ## License
 
-MIT (or your choice — see LICENSE file)
+MIT 
